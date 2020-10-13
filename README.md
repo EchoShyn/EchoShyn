@@ -3,7 +3,7 @@
   <br />
   <h2>Meu objetivo no mundo web é me tornar um desenvolvedor Full-Stack!⚡</h2>
   
-  <p>Visite um de meus repositories e visite as landing-pages que criei.😄</p>
+  <p>Visite um de meus repositórios e veja os projetos que desenvolvi.😄</p>
 <!--
 **Iago-Silva-Santos/Iago-Silva-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
