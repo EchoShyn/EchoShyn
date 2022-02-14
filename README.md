@@ -4,8 +4,7 @@
     <h2>Atualmente estou estudando para ser um desenvolvedor full-stack.⚡</h2>
     <hr/>
     <h2>Utilizando tecnologias como: </h2>
-  <div class="tecnos" style="width: 100%; padding: 0 10px;">
-    <h3>PHP</h3>
+    <h3 style="color: black;">PHP</h3>
     <h3>HTML5</h3>
     <h3>CSS3</h3>
   </div>
