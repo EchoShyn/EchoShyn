@@ -14,7 +14,7 @@
     </div>
     <h2>Entre em contato em: </h2>
     <div style="display: inline-block">
-      <a href="https://www.linkedin.com/in/iago-silva-1896991ab/"><img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
+      <a target="blank" href="https://www.linkedin.com/in/iago-silva-1896991ab/"><img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
     </div>
   
   
