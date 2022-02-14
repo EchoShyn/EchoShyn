@@ -1,18 +1,13 @@
 ### Hi there 👋
-<!DOCTYPE html>
-<html>
-  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
- 
   <h2></h2>
     <br />
     <h2>Atualmente estou estudando para ser um desenvolvedor full-stack.⚡</h2>
     <hr/>
-  <div>
     <h2>Utilizando tecnologias como: </h2>
-    <h3><i class="fa-brands fa-php"></i></h3>
-    <h3>html5</h3>
-    <h3>css3</h3>
+  <div class="tecnos" style="width: 100%; padding: 0 10px;">
+    <h3>PHP</h3>
+    <h3>HTML5</h3>
+    <h3>CSS3</h3>
   </div>
     <p>Visite um de meus repositórios e veja os projetos que desenvolvi.😄</p>
 </html>
