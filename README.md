@@ -4,8 +4,8 @@
     />Atualmente trabalho com front-end.⚡
     <hr>
     <div>
-      <a href="https://github.com/Iago-Silva-Santos"><img height="145em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Silva-Santos&layout=compact&theme=dark" /></a>
-      
+      <a href="https://github.com/Iago-Silva-Santos"></a>
+      <img height="145em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Silva-Santos&layout=compact&theme=dark" />
     </div>
     <div style="display: inline-block">
       <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
