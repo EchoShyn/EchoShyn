@@ -1,11 +1,7 @@
-### Hi there 👋
+### Olá, meu nome é Iago Silva
   <h2></h2>
-    <br />
-    <h2>Atualmente estou estudando para ser um desenvolvedor full-stack.⚡</h2>
-    <h2>Utilizando tecnologias como: </h2>
-    <h3>PHP</h3> <h3>HTML5</h3> <h3>CSS3</h3>
-    <p>Visite um de meus repositórios e veja os projetos que desenvolvi.😄</p>
-</html>
+    <h2>Atualmente trabalho com front-end.⚡</h2>
+    <h2>Estudando PHP, HTML5 e CSS3</h2>
 <!--
 **Iago-Silva-Santos/Iago-Silva-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
