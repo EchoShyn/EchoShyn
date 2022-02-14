@@ -1,7 +1,19 @@
 ### Olá, meu nome é Iago Silva
   <h2></h2>
-    <h2>Atualmente trabalho com front-end.⚡</h2>
-    <h2>Estudando PHP, HTML5 e CSS3</h2>
+    />Estudando PHP, HTML5 e CSS3.<br>
+    />Atualmente trabalho com front-end.⚡
+    <hr>
+    <div>
+      <a href="https://github.com/Iago-Silva-Santos"></a>
+      <img height="145em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Silva-Santos&layout=compact&theme=dark" />
+    </div>
+    <div style="display: inline-block">
+      <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+      <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    </div>
+  
+  
 <!--
 **Iago-Silva-Santos/Iago-Silva-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--
+-->
