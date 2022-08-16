@@ -1,7 +1,7 @@
 ### Olá, meu nome é Iago Silva
   <h2></h2>
     />Estudando PHP, HTML5 e CSS3.<br>
-    />Atualmente trabalho com front-end.⚡
+    />Atualmente trabalho com front-end direcionado à websites.⚡
     <hr>
     <div>
       <a href="https://github.com/Iago-Silva-Santos">
