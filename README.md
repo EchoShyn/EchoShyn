@@ -12,7 +12,7 @@
       <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
     </div>
-    <h2>Entre em contato em: </h2>
+    <h2>Entre em contato:</h2>
     <div style="display: inline-block">
       <a target="blank" href="https://www.linkedin.com/in/iago-silva-1896991ab/"><img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" /></a>
     </div>
