@@ -8,8 +8,8 @@
       <img height="145em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Silva-Santos&layout=compact&theme=dark" /></a>
     </div>
     <div style="display: inline-block">
-      <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
       <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+      <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
       <img width="45em" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     </div>
     <h2>Entre em contato:</h2>
