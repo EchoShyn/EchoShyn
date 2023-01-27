@@ -1,7 +1,7 @@
 ### Olá, meu nome é Iago Silva
   <h2></h2>
-    /> Estudando PHP, HTML5 e CSS3.<br>
-    /> PHP Developer.⚡
+    /> PHP Developer.<br>
+    /> Experiência na área a cerca de 3 anos.⚡
     <hr>
     <div>
       <a href="https://github.com/EchoShyn">
