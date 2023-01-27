@@ -1,7 +1,7 @@
 ### Olá, meu nome é Iago Silva
   <h2></h2>
-    /> PHP Developer.<br>
-    /> Experiência na área a cerca de 3 anos.⚡
+    /> Back-End Dev<br>
+    /> .⚡
     <hr>
     <div>
       <a href="https://github.com/EchoShyn">
